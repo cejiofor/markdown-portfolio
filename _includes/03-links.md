@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+[GitHub](http://github.com/cejiofor)
+
+[Twitter](http://twitter.com/naija_engu)
